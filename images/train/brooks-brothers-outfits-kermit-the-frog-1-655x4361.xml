@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kermit</folder>
+	<filename>brooks-brothers-outfits-kermit-the-frog-1-655x4361.jpg</filename>
+	<path>C:\Users\Мария\Desktop\kermit\brooks-brothers-outfits-kermit-the-frog-1-655x4361.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>655</width>
+		<height>436</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kermit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>28</ymin>
+			<xmax>467</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

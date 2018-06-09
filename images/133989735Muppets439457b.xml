@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kermit</folder>
+	<filename>133989735Muppets439457b.jpg</filename>
+	<path>C:\Users\Мария\Desktop\kermit\133989735Muppets439457b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kermit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>462</xmin>
+			<ymin>172</ymin>
+			<xmax>638</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

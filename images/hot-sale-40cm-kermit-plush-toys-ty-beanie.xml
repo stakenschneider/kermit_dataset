@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kermit</folder>
+	<filename>hot-sale-40cm-kermit-plush-toys-ty-beanie.jpg</filename>
+	<path>C:\Users\Мария\Desktop\kermit\hot-sale-40cm-kermit-plush-toys-ty-beanie.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>850</width>
+		<height>850</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kermit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>60</ymin>
+			<xmax>494</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

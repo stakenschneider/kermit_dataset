@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kermit</folder>
+	<filename>490599708_kermit-the-frog-zoom-a56d3bbe-0cb9-4242-b6f3-42ec25c50627.jpg</filename>
+	<path>C:\Users\Мария\Desktop\kermit\490599708_kermit-the-frog-zoom-a56d3bbe-0cb9-4242-b6f3-42ec25c50627.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1148</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kermit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>709</xmin>
+			<ymin>123</ymin>
+			<xmax>1207</xmax>
+			<ymax>658</ymax>
+		</bndbox>
+	</object>
+</annotation>

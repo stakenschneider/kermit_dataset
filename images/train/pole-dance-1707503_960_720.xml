@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kermit</folder>
+	<filename>pole-dance-1707503_960_720.jpg</filename>
+	<path>C:\Users\Мария\Desktop\kermit\pole-dance-1707503_960_720.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>631</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kermit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>364</ymin>
+			<xmax>426</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

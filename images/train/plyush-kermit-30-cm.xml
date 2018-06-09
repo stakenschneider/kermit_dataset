@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kermit</folder>
+	<filename>plyush-kermit-30-cm.jpg</filename>
+	<path>C:\Users\Мария\Desktop\kermit\plyush-kermit-30-cm.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>458</width>
+		<height>458</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kermit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>13</ymin>
+			<xmax>385</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

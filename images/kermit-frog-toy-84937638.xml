@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kermit</folder>
+	<filename>kermit-frog-toy-84937638.jpg</filename>
+	<path>C:\Users\Мария\Desktop\kermit\kermit-frog-toy-84937638.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>509</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kermit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>503</xmin>
+			<ymin>236</ymin>
+			<xmax>659</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

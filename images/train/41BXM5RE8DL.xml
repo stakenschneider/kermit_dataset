@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kermit</folder>
+	<filename>41BXM5RE8DL._SX258_BO1,204,203,200_.jpg</filename>
+	<path>C:\Users\Мария\Desktop\kermit\41BXM5RE8DL._SX258_BO1,204,203,200_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>325</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kermit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>74</ymin>
+			<xmax>166</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

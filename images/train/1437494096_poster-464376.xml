@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kermit</folder>
+	<filename>1437494096_poster-464376.jpg</filename>
+	<path>C:\Users\Мария\Desktop\kermit\1437494096_poster-464376.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>514</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kermit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>92</ymin>
+			<xmax>191</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

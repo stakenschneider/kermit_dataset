@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kermit</folder>
+	<filename>the-muppets-cancelled.jpg</filename>
+	<path>C:\Users\Мария\Desktop\kermit\the-muppets-cancelled.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kermit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>141</ymin>
+			<xmax>550</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kermit</folder>
+	<filename>Supreme-Kermit-The-Frog-Plush-Doll-1-900x900.jpg</filename>
+	<path>C:\Users\Мария\Desktop\kermit\Supreme-Kermit-The-Frog-Plush-Doll-1-900x900.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kermit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>249</ymin>
+			<xmax>535</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

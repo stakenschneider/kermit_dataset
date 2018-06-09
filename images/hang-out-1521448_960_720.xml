@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kermit</folder>
+	<filename>hang-out-1521448_960_720.jpg</filename>
+	<path>C:\Users\Мария\Desktop\kermit\hang-out-1521448_960_720.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>627</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kermit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>548</xmin>
+			<ymin>395</ymin>
+			<xmax>786</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+</annotation>

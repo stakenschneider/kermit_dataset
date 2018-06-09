@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kermit</folder>
+	<filename>kinopoisk.ru-Kermit_27s-Swamp-Years-1815281.jpg</filename>
+	<path>C:\Users\Мария\Desktop\kermit\kinopoisk.ru-Kermit_27s-Swamp-Years-1815281.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1511</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kermit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>241</ymin>
+			<xmax>712</xmax>
+			<ymax>822</ymax>
+		</bndbox>
+	</object>
+</annotation>

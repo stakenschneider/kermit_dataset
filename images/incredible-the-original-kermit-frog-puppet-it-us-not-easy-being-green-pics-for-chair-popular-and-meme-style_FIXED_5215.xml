@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kermit</folder>
+	<filename>incredible-the-original-kermit-frog-puppet-it-us-not-easy-being-green-pics-for-chair-popular-and-meme-style_FIXED_5215.jpg</filename>
+	<path>C:\Users\Мария\Desktop\kermit\incredible-the-original-kermit-frog-puppet-it-us-not-easy-being-green-pics-for-chair-popular-and-meme-style_FIXED_5215.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kermit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>132</ymin>
+			<xmax>803</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+</annotation>

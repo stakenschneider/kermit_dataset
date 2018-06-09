@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kermit</folder>
+	<filename>kermit-actor-fired.jpg</filename>
+	<path>C:\Users\Мария\Desktop\kermit\kermit-actor-fired.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kermit</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>1</ymin>
+			<xmax>415</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>
